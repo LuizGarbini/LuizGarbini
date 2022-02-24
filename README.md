@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning HTML, CSS, Javascript.
+- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS.
 
 ### Stats: 
 <div>
